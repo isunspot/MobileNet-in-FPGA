@@ -1,0 +1,4 @@
+% ls -l *.zip
+-rw-r--r--@ 1 isunspot  staff    3519868 10 19 14:57 OpenVino_MobileNet_verilog_project_animals.zip
+-rw-r--r--@ 1 isunspot  staff    3530958 10 19 14:57 OpenVino_MobileNet_verilog_project_cars.zip
+-rw-r--r--@ 1 isunspot  staff    3539594 10 19 14:57 OpenVino_MobileNet_verilog_project_people.zip
