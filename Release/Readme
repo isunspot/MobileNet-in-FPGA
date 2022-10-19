@@ -2,3 +2,11 @@
 -rw-r--r--@ 1 isunspot  staff    3519868 10 19 14:57 OpenVino_MobileNet_verilog_project_animals.zip
 -rw-r--r--@ 1 isunspot  staff    3530958 10 19 14:57 OpenVino_MobileNet_verilog_project_cars.zip
 -rw-r--r--@ 1 isunspot  staff    3539594 10 19 14:57 OpenVino_MobileNet_verilog_project_people.zip
+
+% ls -l *.h5
+-rw-r--r--@ 1 isunspot  staff  2943928 10 19 15:15 weights_mobilenet_1_0.25_128px_animals_loss_0.2486_acc_0.8967_epoch_33.h5
+-rw-r--r--@ 1 isunspot  staff   990320 10 19 15:15 weights_mobilenet_1_0.25_128px_animals_loss_0.2486_acc_0.8967_epoch_33_reduced_rescaled.h5
+-rw-r--r--@ 1 isunspot  staff  2943928 10 19 15:15 weights_mobilenet_1_0.25_128px_cars_loss_0.1088_acc_0.9631_epoch_67.h5
+-rw-r--r--@ 1 isunspot  staff   990320 10 19 15:15 weights_mobilenet_1_0.25_128px_cars_loss_0.1088_acc_0.9631_epoch_67_reduced_rescaled.h5
+-rw-r--r--@ 1 isunspot  staff  2943928 10 19 15:15 weights_mobilenet_1_0.25_128px_people_loss_0.3600_acc_0.8442_epoch_38.h5
+-rw-r--r--@ 1 isunspot  staff   990320 10 19 15:15 weights_mobilenet_1_0.25_128px_people_loss_0.3600_acc_0.8442_epoch_38_reduced_rescaled.h5
